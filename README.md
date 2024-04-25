@@ -14,7 +14,7 @@ This is a web app developed as a project for Ravi Ranjan using React.js. It allo
 - CSS
 - JavaScript
 - VS Code
-- SheCodes Weather API
+- OpenWeather's Weather API
 
 # Installation and Usage
 To use this app, you can follow these steps:
